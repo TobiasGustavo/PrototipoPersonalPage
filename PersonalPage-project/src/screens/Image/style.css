@@ -1,0 +1,13 @@
+.image {
+  height: 2048px;
+  width: 946px;
+}
+
+.image .prototipofigmatobias {
+  height: 2048px;
+  left: 0;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 946px;
+}
